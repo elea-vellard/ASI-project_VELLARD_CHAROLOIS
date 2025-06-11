@@ -9,6 +9,8 @@ The code demonstrates the use of Monte Carlo (MC) Dropout for estimating predict
 
 * `mc_dropout_reproduction_CHAROLOIS_VELLARD.ipynb`: A Jupyter notebook that reproduces and visualizes the experiments.
 * `co2_mm_mlo.csv`: the dataset for the second experiment (model uncertainty in regression tasks) that must be included in the same folder as the notebook.
+* `Paper_assignment_Enzo_CHAROLOIS.pdf`: Enzo's report.
+* `Paper_assignment_Elea_VELLARD.pdf`: Eléa's report.
 
 ## Running the Experiments
 
