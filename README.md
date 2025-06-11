@@ -1,6 +1,6 @@
 # MC Dropout - Reproduction of Gal & Ghahramani (2016)
 
-## Overview
+## Overview 
 
 This repository contains a Python implementation of the experiments described in the paper "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning" by Yarin Gal and Zoubin Ghahramani (ICML, 2016).
 
