@@ -12,7 +12,7 @@ The code demonstrates the use of Monte Carlo (MC) Dropout for estimating predict
 
 ## Running the Experiments
 
-Open `mc_dropout_reproduction.ipynb` in Jupyter Notebook or JupyterLab and execute the cells sequentially. Our results are already saved in the file, but can be re-run if needed.
+Open `mc_dropout_reproduction.ipynb` in Google Colab for a better visualization of the cells's outputs. Our results are already saved in the file, but can be re-run if needed.
 
 ## References
 
